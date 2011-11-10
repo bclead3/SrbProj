@@ -1,0 +1,14 @@
+reference:
+  xls_file_path : /Users/benjaminleadholm/Documents
+  sport       : baseball
+  spread_url  : http://www.sbrforum.com/betting-odds/mlb-baseball/?OddsFormat=2&date=
+  start_amount: 1000
+  xls_file_name : SrbBaseball.xls
+  start_date  : 2011-04-01
+  end_date    : 2011-09-28
+#  sport       : football
+#    spread url  : http://www.sbrforum.com/betting-odds/nfl-football/?OddsFormat=2&date=
+#    start_amount: 1000
+#    xls_file_name : SrbFootball.xls
+#  spread url  : http://www.betonline.com/sportsbook#
+#  sport       : football
